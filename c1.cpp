@@ -24,7 +24,7 @@ int main(void)
 	} 
 	else
 	{
-		printf("нч╫Б") ;
+		printf("wujie") ;
 	} 
 	return 0;
 }
